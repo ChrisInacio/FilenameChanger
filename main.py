@@ -10,12 +10,6 @@ from tkinter import filedialog
 print ("-----Filename Changer (Console version)-----")
 
 #############################
-# INITIAZATION
-#############################
-# mainDirectory = os.path.dirname(os.path.realpath(__file__)) # Get current working directory
-# os.chdir(os.path.dirname(os.path.realpath(__file__))) # Set current working directory
-
-#############################
 # AUXILIARY FUNCTIONS
 #############################
 def pickPrefix():
